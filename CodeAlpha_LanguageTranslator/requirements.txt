@@ -1,0 +1,5 @@
+# Language Translation Tool - Requirements
+# CodeAlpha Internship Project 5
+
+streamlit==1.28.0
+deep-translator==1.11.4
